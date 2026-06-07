@@ -68,14 +68,6 @@ ALD Render Layer solves this by presenting all critical render layer controls in
 * Look Development
 * Multi-pass Rendering
 * AOV and Compositing Workflows
-
-## Technology
-
-* Houdini Solaris (USD)
-* Arnold Renderer
-* Python
-* PySide / Qt
-
 ---
 
 **ALD Render Layer** is designed to bring the simplicity of traditional render layer workflows into Houdini Solaris while maintaining the flexibility and power of USD and Arnold-based pipelines.
